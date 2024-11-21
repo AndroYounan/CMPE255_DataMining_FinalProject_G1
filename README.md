@@ -10,8 +10,8 @@ Once ready, your file structure should have at least the following files (option
 - LoadUtils.py
 - Recommender.ipynb
 - yelp_dataset
- - yelp_academic_dataset_business.json
- - yelp_academic_dataset_review.json
+  - yelp_academic_dataset_business.json
+  - yelp_academic_dataset_review.json
 
 Once you have the necessary files, run Recommender.ipynb.
 
